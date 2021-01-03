@@ -17,6 +17,7 @@ module.exports = {
   themeConfig: {
     nav:[ // 导航栏配置
       {text: '前端', link: '/accumulate/' },
+      {text: '后端', link: '/rearend/' },
       {text: '算法', link: '/algorithm/'},
       {text: '图片', link: '/others/'},
       {text: '微博', link: 'https://weibo.com/u/6040297601?is_all=1#_rnd1609557215825'}      
